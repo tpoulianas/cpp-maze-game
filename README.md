@@ -6,6 +6,10 @@ An object-oriented maze game implemented in **C++**, developed as a university p
 This project implements a simple maze-based game using object-oriented programming principles.
 The player controls a hero character navigating through different maze maps.
 
+## Design
+The project follows a clear object-oriented design, with separate classes handling
+game flow, entities, and maze logic.
+
 ## Features
 - Object-oriented design (Game, GameObject, Hero, Maze)
 - Multiple maze maps
